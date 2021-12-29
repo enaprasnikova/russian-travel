@@ -4,14 +4,12 @@
   justify-content: center;
   align-items: center;
   max-width: 984px;
-  max-height: 1005px;
   margin: 56px 148px 0;
 }
 
 @media screen and (max-width: 1279px) {
   .lead {
     max-width: 928px;
-    max-height: 962px;
     margin: 48px 48px 0;
   }
 } 
@@ -19,7 +17,6 @@
 @media screen and (max-width: 1023px) {
   .lead {
     max-width: 768px;
-    max-height: 862px;
     margin: 48px 0 0;
   }
 } 
@@ -27,6 +24,5 @@
 @media screen and (max-width: 767px) {
   .lead {
     max-width: 320px;
-    max-height: 406px;
   }
 } 
